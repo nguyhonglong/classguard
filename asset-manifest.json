@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca8abaca.css",
-    "main.js": "/static/js/main.21482053.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/photo.png": "/static/media/photo.81c0423d1884298bf2d1.png",
-    "static/media/like.png": "/static/media/like.171f7d4b492488585d4c.png",
-    "static/media/dislike.png": "/static/media/dislike.fe8b239b16ede71274f2.png",
-    "static/media/emojiIcon.png": "/static/media/emojiIcon.08f60ccb7d2328da4f22.png",
-    "static/media/likeblue.png": "/static/media/likeblue.ffb26543fec418c7e568.png",
-    "static/media/dislikeRed.png": "/static/media/dislikeRed.3e1326e1b00a490cf9a2.png",
-    "static/media/dislikeBlack.png": "/static/media/dislikeBlack.66c2eadde47a9a5eaf0d.png",
-    "index.html": "/index.html",
-    "main.ca8abaca.css.map": "/static/css/main.ca8abaca.css.map",
-    "main.21482053.js.map": "/static/js/main.21482053.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/classguard/static/css/main.cb758b27.css",
+    "main.js": "/classguard/static/js/main.627e5b2b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/classguard/static/js/787.28cb0dcd.chunk.js",
+    "static/media/photo.png": "/classguard/static/media/photo.81c0423d1884298bf2d1.png",
+    "static/media/like.png": "/classguard/static/media/like.171f7d4b492488585d4c.png",
+    "static/media/dislike.png": "/classguard/static/media/dislike.fe8b239b16ede71274f2.png",
+    "static/media/emojiIcon.png": "/classguard/static/media/emojiIcon.08f60ccb7d2328da4f22.png",
+    "static/media/likeblue.png": "/classguard/static/media/likeblue.ffb26543fec418c7e568.png",
+    "static/media/dislikeRed.png": "/classguard/static/media/dislikeRed.3e1326e1b00a490cf9a2.png",
+    "static/media/dislikeBlack.png": "/classguard/static/media/dislikeBlack.66c2eadde47a9a5eaf0d.png",
+    "index.html": "/classguard/index.html",
+    "main.cb758b27.css.map": "/classguard/static/css/main.cb758b27.css.map",
+    "main.627e5b2b.js.map": "/classguard/static/js/main.627e5b2b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/classguard/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca8abaca.css",
-    "static/js/main.21482053.js"
+    "static/css/main.cb758b27.css",
+    "static/js/main.627e5b2b.js"
   ]
 }
